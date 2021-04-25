@@ -1,0 +1,2 @@
+# ManipulandoBancoDados_PHP
+CONNECT , INSERT - CREATE , READ, UPDATE , DELETE
